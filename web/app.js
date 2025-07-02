@@ -6,8 +6,8 @@ document.addEventListener("DOMContentLoaded", () => {
         // Mocked response
         const mockData = {
             name: "Simrun Parulekar",
-            dob: "2006-02-14",
-            licenseNumber: "X12345678",
+            dob: "2006-09-13",
+            licenseNumber: "X00000000",
             verified: true
         };
         resultDiv.innerHTML = `
